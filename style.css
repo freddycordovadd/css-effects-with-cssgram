@@ -105,6 +105,7 @@ body {
 .footer-text p {
     font-size: 1rem;
     color: #333;
+    text-align: center;
 }
 
 .footer-text a {
@@ -127,5 +128,9 @@ body {
 
     .hero .description {
         font-size: 1rem;
+    }
+
+    .footer {
+        margin-top: 20px;
     }
 }
